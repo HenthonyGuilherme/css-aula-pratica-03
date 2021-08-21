@@ -1,0 +1,9 @@
+#titulo{
+    color: blue;
+    text-transform: uppercase;
+}
+.texto{font-style: italic;}
+
+.table1{
+    border:  1px solid black;
+}

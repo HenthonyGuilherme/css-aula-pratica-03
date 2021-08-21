@@ -1,0 +1,20 @@
+#p01{ font: 20px arial;}
+#p02{ font: 22px times;}
+#p03{ font: 24px serif;}
+#p04{ font: 26px georgia;}
+#p05{ font: 28px Helvetica;}
+
+
+.nome1{font: italic bold 26px georgia;}
+.nome2{font: italic bold 28px arial;}
+.nome3{font: italic bold 30px serif;}
+.ptext1{font: 20px times;}
+.ptext2{font: 22px helvetica;}
+.ptext3{font: 24px impact;}
+
+
+.h101{
+    font-style: oblique;
+    font-size: 25px;
+}
+.pt01{font-size: 30px;}
